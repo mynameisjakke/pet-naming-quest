@@ -24,6 +24,9 @@
 
 In a world where pets are born from pure intention and cosmic energy, you are the **Master Namer**. Your task is to combine ancient **Essences** to breathe life into mysterious beings. But beware—not all combinations are equal! Only the most skilled Alchemists can reach the rank of *Transcendental Master*.
 
+> [!NOTE]
+> **Experimental Alchemistry**: This project is a test experiment to see how **Gemini CLI** (The Alchemist) handles building a complete, interactive application from scratch. It's a playground to see how the code, design, and logic all add up! 🤷‍♂️
+
 ## 🎮 How to Play
 
 1.  **Select Your Essences**: Choose two powerful essences from your collection (Shadow, Star, Chaos, Fire, and more).
@@ -64,6 +67,4 @@ Can you climb the ladder?
 
 ---
 
-<p align="center">
-  Made with ✨ by the Gemini CLI Alchemist
-</p>
+
