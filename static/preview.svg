@@ -1,0 +1,29 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#0A0A0A"/>
+  
+  <!-- Left Side: Essences -->
+  <rect x="50" y="100" width="300" height="250" rx="20" fill="#171717"/>
+  <text x="70" y="130" fill="#525252" style="font-family: monospace; font-size: 12px; font-weight: bold;">SELECT ESSENCES</text>
+  
+  <circle cx="100" cy="180" r="25" fill="#EF4444" opacity="0.8"/> <!-- Fire -->
+  <circle cx="170" cy="180" r="25" fill="#3B82F6" opacity="0.8"/> <!-- Ice -->
+  <circle cx="240" cy="180" r="25" fill="#10B981" opacity="0.8"/> <!-- Nature -->
+  <circle cx="310" cy="180" r="25" fill="#F59E0B" opacity="0.8"/> <!-- Star -->
+  
+  <rect x="70" y="280" width="260" height="45" rx="10" fill="white"/>
+  <text x="145" y="308" fill="black" style="font-family: sans-serif; font-weight: 800; font-size: 14px;">BEGIN RITUAL</text>
+
+  <!-- Right Side: The Result -->
+  <circle cx="580" cy="180" r="80" fill="#A78BFA" opacity="0.1">
+    <animate attributeName="r" values="75;85;75" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <text x="580" y="280" fill="white" text-anchor="middle" style="font-family: sans-serif; font-weight: 900; font-size: 42px;">Frostburn</text>
+  <text x="580" y="310" fill="#A3A3A3" text-anchor="middle" style="font-family: sans-serif; font-style: italic; font-size: 18px;">The Phoenix</text>
+  
+  <rect x="530" y="340" width="100" height="40" rx="20" fill="#F59E0B" opacity="0.2"/>
+  <text x="580" y="365" fill="#F59E0B" text-anchor="middle" style="font-family: sans-serif; font-weight: bold; font-size: 14px;">+184 SOUL</text>
+
+  <!-- Header -->
+  <text x="50" y="50" fill="white" style="font-family: sans-serif; font-weight: bold; font-size: 24px;">Pet Naming Quest</text>
+  <text x="750" y="50" fill="#F59E0B" text-anchor="end" style="font-family: sans-serif; font-weight: bold; font-size: 20px;">2,450</text>
+</svg>

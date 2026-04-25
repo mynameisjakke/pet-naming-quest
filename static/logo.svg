@@ -1,0 +1,17 @@
+<svg width="400" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="400" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <blur stdDeviation="2" />
+    </filter>
+  </defs>
+  <rect width="400" height="120" rx="20" fill="#0A0A0A"/>
+  <circle cx="60" cy="60" r="30" fill="url(#paint0_linear)" opacity="0.2" filter="url(#shadow)"/>
+  <path d="M60 40C50 40 42 48 42 60C42 75 60 85 60 85C60 85 78 75 78 60C78 48 70 40 60 40Z" fill="url(#paint0_linear)"/>
+  <text x="110" y="75" fill="url(#paint0_linear)" style="font-family: sans-serif; font-weight: 900; font-size: 38px; letter-spacing: -1px;">
+    Pet Naming Quest
+  </text>
+</svg>
